@@ -145,44 +145,6 @@ Parasitic resistance and capacitance introduced by interconnects were extracted 
 
 ---
 
-# Monte Carlo Analysis
-
-Monte Carlo simulations were carried out to evaluate the robustness of the design against statistical process variations and device mismatches.
-
-<p align="center">
-<img src="docs/images/Monte_carlo.png">
-</p>
-
----
-
-# Pre-Layout Simulations
-
-Before layout implementation, AC and transient simulations were performed to verify the functionality of the designed amplifier.
-
-### AC Analysis
-
-<p align="center">
-<img src="docs/images/pre_layout_ac.png">
-</p>
-
-### Transient Analysis
-
-<p align="center">
-<img src="docs/images/pre_layout_trans.png">
-</p>
-
----
-
-# Post-Layout Simulations
-
-After RC extraction, post-layout simulations were performed using the extracted netlist to observe the circuit behavior including parasitic effects.
-
-<p align="center">
-<img src="docs/images/post_layout_ac.png">
-</p>
-
----
-
 # Design Tools
 
 - Cadence Virtuoso
