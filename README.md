@@ -117,7 +117,7 @@ The layout includes:
 
 # Design Rule Check (DRC)
 
-The completed layout was verified using Design Rule Check (DRC) to ensure that all geometrical constraints defined by the fabrication process were satisfied.
+During layout development, several physical design rule violations such as minimum metal width, minimum metal spacing, via enclosure, contact enclosure, minimum area, and notch width violations were identified and resolved through iterative layout optimization. The final layout successfully passed all Design Rule Checks (DRC).
 
 <p align="center">
 <img src="docs/images/DRC.png">
@@ -127,7 +127,7 @@ The completed layout was verified using Design Rule Check (DRC) to ensure that a
 
 # Layout Versus Schematic (LVS)
 
-LVS verification was performed to confirm that the fabricated layout exactly matches the intended transistor-level schematic in terms of connectivity and device properties.
+The completed layout was verified using Layout Versus Schematic (LVS) to ensure that the fabricated layout accurately represented the intended circuit schematic. During verification, connectivity-related mismatches such as net mismatches, pin mismatches, missing connections, and device connectivity inconsistencies were identified and corrected. After iterative debugging and layout refinement, the design successfully achieved LVS-clean status, confirming that the extracted layout netlist matched the original schematic.
 
 <p align="center">
 <img src="docs/images/LVS.png">
