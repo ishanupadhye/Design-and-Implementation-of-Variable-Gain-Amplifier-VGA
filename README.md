@@ -209,6 +209,8 @@ After RC extraction, post-layout simulations were performed using the extracted 
 │       ├── pre_layout_ac.png
 │       ├── pre_layout_trans.png
 │       └── post_layout_ac.png
+├── results
+│   └── README.md
 └── README.md
 ```
 
