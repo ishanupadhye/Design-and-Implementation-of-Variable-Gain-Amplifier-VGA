@@ -187,6 +187,7 @@ After RC extraction, post-layout simulations were performed using the extracted 
 
 - Cadence Virtuoso
 - Spectre Simulator
+- Cadence Assura
 - CMOS 180 nm Technology
 
 ---
