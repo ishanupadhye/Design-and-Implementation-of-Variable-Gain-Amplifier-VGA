@@ -72,7 +72,7 @@ The amplifier gain is varied by controlling the tail current through the bias vo
 The complete transistor-level schematic was implemented in Cadence Virtuoso using the 180 nm CMOS process. Proper transistor sizing and biasing were selected to achieve variable gain operation.
 
 <p align="center">
-<img src="docs/images/Schematic.png">
+<img src="docs/images/Schemetic.png">
 </p>
 
 ---
