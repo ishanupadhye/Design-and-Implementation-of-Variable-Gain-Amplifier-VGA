@@ -219,4 +219,4 @@ After RC extraction, post-layout simulations were performed using the extracted 
 **Ishan Upadhye**
 
 M.Tech in VLSI Design  
-Institute of Technology, Nirma University
+
